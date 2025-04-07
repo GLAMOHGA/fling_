@@ -298,7 +298,7 @@ Button.MouseButton1Click:Connect(function()
     end
 end)
 
-if not getgenv().Welcome then Message("Script by AnthonyIsntHere", "Enjoy!", 5) end
+if not getgenv().Welcome then Message("Script by https://t.me/vomagla", "Enjoy!", 5) end
 getgenv().Welcome = true
 
 -- Удалите автоматический флинг при активации скрипта
